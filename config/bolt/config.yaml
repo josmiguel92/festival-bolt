@@ -2,8 +2,8 @@
 # in the project root.
 
 # The name of the website
-sitename: Bolt Project Website
-payoff: The amazing payoff goes here
+sitename: Festival de Poesía de La Habana
+payoff: Web del Festival Internacional de Poesía de La Habana
 
 secret: '%env(APP_SECRET)%'
 
@@ -178,7 +178,7 @@ accept_media_types: [ gif, jpg, jpeg, png, svg, pdf, mp3, tiff, avif, webp ]
 
 # Set the maximum upload size. Note, this can never exceed the settings for
 #`post_max_size` and `upload_max_filesize` in `php.ini`.
-accept_upload_size: 8M
+accept_upload_size: 16M
 
 # Default location for uploading files.
 upload_location: "{contenttype}/{year}/{month}/"
@@ -207,6 +207,6 @@ user_avatar:
 reset_password_settings:
     show_already_requested_password_notice: true
     mail_from: "do-not-reply@example.org"
-    mail_name: "Bolt CMS"
+    mail_name: "FIPH CMS"
     mail_subject: "Your password reset request"
     mail_template: "reset_password/email.html.twig"

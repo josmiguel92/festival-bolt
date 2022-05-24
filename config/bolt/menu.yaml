@@ -3,15 +3,15 @@
 
 main:
   - label: Home
-    title: This is the <b>first<b> menu item.
+    title: Homepage
     link: homepage
     class: homepage
   - label: About
     link: page/2
     submenu:
-        - label: Sub 1
+        - label: Sobre el Festival
           link: entry/39
-        - label: Sub 2
+        - label: Convocatorias
           class: menu-item-class
           link: entry/40
         - link: entry/41 # These two have no `label`, so they will show up as the title
@@ -19,9 +19,9 @@ main:
           link: page/42
   - label: All pages
     link: pages/
-  - label: The Bolt site
-    link: https://boltcms.io
+  - label: Cubapoesia
+    link: http://www.cubapoesia.cult.cu
     class: bolt-site
-    title: Visit the excellent Bolt website!
+    title: Visit the Cubapoesia website!
 
 foo: bar
