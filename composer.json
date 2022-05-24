@@ -31,7 +31,12 @@
         "preferred-install": {
             "*": "dist"
         },
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "drupol/composer-packages": true,
+            "symfony/flex": true
+        }
     },
     "extra": {
         "public-dir": "public",
@@ -76,5 +81,8 @@
         "auto-scripts": {
 
         }
+    },
+    "platform": {
+        "php": ">=8.0.0"
     }
 }
