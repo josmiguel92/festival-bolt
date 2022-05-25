@@ -1,16 +1,16 @@
 # location for the embedded map
 location:
-    map_query: "Two Kings, the Hague"
+    map_query: "Linea y D, Vedado, La Habana"
     address: |
-        Prins Hendrikstraat 91
-        2518 HL The Hague
-        Netherlands
-    email: support@example.org
-    phone: "+31 1-123456789"
+        Linea y D,
+        Plaza de la Revolución
+        Habana, Cuba
+    email: info@festivaldepoesiadelahabana.com
+    phone: ""
 
 socials:
-    facebook: ~
-    twitter: https://twitter.com/twokings
-    instagram: https://www.instagram.com/bopp
-    linkedin: https://www.linkedin.com/company/two-kings
-    youtube: ~
+    facebook: https://www.facebook.com/Cubapoesia.fiph/
+    twitter: ~
+    instagram: ~
+    linkedin: ~
+    youtube: https://www.youtube.com/channel/UCwIsxX6VKQivz0SakkYsXOg

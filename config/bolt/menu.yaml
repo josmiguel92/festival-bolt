@@ -11,9 +11,11 @@ main:
     submenu:
         - label: Sobre el Festival
           link: entry/39
-        - label: Convocatorias
+        - label: Convocatoria
           class: menu-item-class
-          link: entry/40
+          link: entry/convocatoria-al-28-festival-de-poesia-de-la-habana
+        - label: Programa del Mitin Poético Virtual
+          link: entry/114
         - link: entry/41 # These two have no `label`, so they will show up as the title
         - class: sub-class
           link: page/42
